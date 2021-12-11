@@ -3,7 +3,7 @@ ECOR1042 Fall 2021 README for T060_Data_analyzer. Project version 1.0 07/12/2021
 The project leader can be reached at:
 Email:FOLAHANMIADEYEHUN@cmail.carleton.ca
 
-Discription:
+Description:
 ------------
 
 -The data analyzer prompts the user with eight options on how to view and edit 
@@ -22,14 +22,14 @@ Installation:
 -------------
 Python 3.9.0 or later must be installed
 At least one CSV in the form of 
-,title,author,rating,publisher,page_count,generes,language
+,title,author,rating,publisher,page_count,genres,language
 must be installed in the T060_Data_analyzer file.
 
 Usage:
 ------
 >T060_P2_booksUI.py
-when prompted a menu with all available options apears, typing in the
-coesponding letter(s) will run a specific code. Load file must be used first 
+When prompted a menu with all available options, appears, typing in the
+corresponding letter(s) will run a specific code. Load file must be used first 
 for the program to run properly.
 
 Credits:
